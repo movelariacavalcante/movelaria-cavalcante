@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/movelaria-cavalcante/static/css/main.73b429cb.css",
-    "main.js": "/movelaria-cavalcante/static/js/main.f164e780.js",
+    "main.css": "/movelaria-cavalcante/static/css/main.eea33c9f.css",
+    "main.js": "/movelaria-cavalcante/static/js/main.93cc375c.js",
     "index.html": "/movelaria-cavalcante/index.html",
-    "main.73b429cb.css.map": "/movelaria-cavalcante/static/css/main.73b429cb.css.map",
-    "main.f164e780.js.map": "/movelaria-cavalcante/static/js/main.f164e780.js.map"
+    "main.eea33c9f.css.map": "/movelaria-cavalcante/static/css/main.eea33c9f.css.map",
+    "main.93cc375c.js.map": "/movelaria-cavalcante/static/js/main.93cc375c.js.map"
   },
   "entrypoints": [
-    "static/css/main.73b429cb.css",
-    "static/js/main.f164e780.js"
+    "static/css/main.eea33c9f.css",
+    "static/js/main.93cc375c.js"
   ]
 }
